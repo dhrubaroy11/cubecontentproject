@@ -1,0 +1,17 @@
+com\demo\rest\CubeRest.class
+com\demo\model\User.class
+com\demo\JSON\DeleteContentJSON.class
+com\demo\dao\UserDAO.class
+com\demo\JSON\CreateContentJSON.class
+com\demo\JSON\GetCubeJSON.class
+com\demo\JSON\AddContentJSON.class
+com\demo\JSON\GetContentJSON.class
+com\demo\model\Content.class
+com\demo\JSON\ShareContentJSON.class
+com\demo\service\UserService.class
+com\demo\model\Cube.class
+com\demo\service\UserServiceImpl.class
+com\demo\JSON\ShareCubeJSON.class
+com\demo\rest\MessageResource.class
+com\demo\JSON\CreateUserJSON.class
+com\demo\JSON\CreateCubeJSON.class
